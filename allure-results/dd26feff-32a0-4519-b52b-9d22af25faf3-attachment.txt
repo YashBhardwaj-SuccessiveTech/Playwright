@@ -1,2 +1,0 @@
-height of the viewport is  1000
-width of the viewport is  1300
