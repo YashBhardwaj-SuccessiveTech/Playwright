@@ -6,6 +6,5 @@ test("handle frames in playwright" , async function({page}) {
 
     const frame = await page.frameLocator("//frame[@name='packageListFrame']");
     await frame.locator("//a[text()='java.applet']").click();
-    
 
 }) ;
